@@ -6,7 +6,7 @@
 ![image](https://img.shields.io/badge/Version-8-ffbc00)
 
 <p>Esta é uma aplicação construída em .NET Core, utilizando o conceito de Injeção de dependência para controle de Contas de usuários. A aplicação permite realizar a criação do perfil de usuário, alteração dos dados, atualização do email e senha. A forma de autenticação e feita por token, utilizando o JWT (JSON Web Token), a aplicação também utiliza mensageiria para envio de mensagem via email. A integração como banco de dados é feita com o EntityFramework.</p>
-<h3><a href="https://github.com/Felipe-Amorim-Dev/ContasWeb">Link do Front-End</a></h3>
+<h3><a href="https://github.com/Felipe-Amorim-Dev/UsuariosWeb">Link do Front-End</a></h3>
 
 <h2>Estrutura do Projeto</h2>
 
