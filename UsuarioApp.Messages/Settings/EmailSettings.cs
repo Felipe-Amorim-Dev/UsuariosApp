@@ -8,11 +8,11 @@ namespace UsuariosApp.Messages.Settings
 {
     public class EmailSettings
     {
-        public string? Conta { get => "usuario.control.app@outlook.com"; }
+        public string? Conta { get => ""; }
 
-        public string? Senha { get => "@Qruxasq1"; }
+        public string? Senha { get => ""; }
 
-        public string? Smtp { get => "smtp-mail.outlook.com"; }
+        public string? Smtp { get => ""; }
 
         public int Porta { get => 587; }    
     }
